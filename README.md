@@ -1,6 +1,6 @@
 # Movie-Recommendation-System
  A Movie Recommendation System based on The Movies Dataset.
- I implemented the recommendation algorithms for Collaborative Filtering, Content Based Filtering and Demographic Filtering, and ensemble these model to build a final recommender. 
+ <br />I implemented the recommendation algorithms for Collaborative Filtering, Content Based Filtering and Demographic Filtering, and ensemble these model to build a final recommender. 
  
  Three types of basic recommendation system:
  Demographic Filtering: This is a generalized recommendations for every user based on movie popularity and/or genre. The System recommends the same movies to users with similar demographic features.
